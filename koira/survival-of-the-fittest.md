@@ -1,0 +1,28 @@
+---
+title: "Survival of the fittest"
+date: 2010-02-06
+categories: 
+  - "koira"
+---
+
+Lajien kehittymisen, niin ihmisten kuin koirienkin, yksi perusta voisi olla jotain, jota englanniksi kutsutaan termillä _survival of the fittest_. Parhaimmassa kunnossa ja parhaiten tilanteisiin sopeutunut jää henkiin ja jatkaa sukua. Tuo kytketään myös nykyään ihmispuolella niin trendikkääseen superfood-ajatteluun. Tuo on myös se vankin perusta menestykseen greyhound racingissä (sopii aivan kaikkeen muuhunkin koiraurheiluun). On aivan sama puhutaanko kilpailemisesta vai jalostuksesta, niin parhaimmassa kunnossa oleva tuulettaa huipulla - kokonaisuus huomioiden.  
+<!--more-->  
+Greyhoundtreenarit puhuvat jatkuvasti kunnosta. Onko koira kunnossa vai ei. Onko se nousukunnossa, vai selitetäänkö tappio laskukunnolla. Kuntohuippua metsästetään, parhaimmillaan kahden viikon jaksoissa. Greyhound ei kykene pitämään huippukuntoaan läpi koko kesän mittaisen kilpailukauden. Osa koirista on koko kesän nousujohteisessa suunnassa tehden syksyllä parhaat tuloksensa. Toinen taasen menee kevään ensimmäisissä voittovauhtia, ja floppaa juhannuksen jälkeen. Kolmas tekee tasaista suoritusta, jolloin se ei itseasiassa koskaan edes saavuta huippukuntoaan. Todelliset huippunimet sahaavat. Ne ovat nousussa ja laskussa, ja jos nousu osuu arvokilpailun finaaliin, niin ne vievät voittomanttelin kotiinsa. Jokainen koira tarvitsee kuitenkin lepojaksoja kilpailukauteen, mieluiten vähintään kaksi vapaata viikonloppua. On mahdotonta pitää huippukuntoa yllä muutamaan kuukautta. Itseasiassa Suomen lyhyeen kilpailukauteen mahtuu kaksi, jopa kolme kuntopiikkiä.
+
+Kunto ja suorituskyky on useamman tekijän summa. Jokaisen täytyy olla kohdallaan. Jos yksi tekijöistä ei ns. tapissaan, niin koiran kunto ei ole huipussaan.
+
+Nämä tekijät ovat
+
+- treeni
+- ruokinta
+- olosuhteet
+- vammat
+- vammojen estäminen
+
+Tämäkään ei vielä riitä. Ihmisillä, ja jossain määrin myös hevosilla, on testejä ja tutkimuksia, joilla voidaan mitata kuinka tehokasta treeni on ja kuinka lähellä huippukuntoa ollaan. Greyhoundeilla tätä mahdollisuutta ei ole. Emme kykene hyödyntämään edes sykettä. Siksi kunnon määritelmä ja huippukunnon arviointi ovat hyvinkin subjektiivisia käsityksiä, jotka riippuvat esim. treenarin odotuksista, vaatimuksista, koiran aidoista kyvyistä (sprintteristä ei tule stayeriä vaikka mitä tekisi) ja kanssakilpailijoiden suorituksista. Oma koira voi olla tosiasiassa huonossa kunnossa tai laskusuunnassa, mutta jos kanssakilpailijat ovat todella surkeita, niin 20 koiranmitan kaulalla otettu voitto antaa väärän kuvan koiran aidosta kunnosta. Koira voi olla huippukunnossa, mutta ulkoisista syistä johtuen - vaikka kehno lähtökoppivalinta - tipauttaa koiran kakkoseksi. Jos se edellisessään on juossut lähelle rataennätystä, niin kuntopiikin lähestymistä ei huomata. Koira ei voittanut ja kaikki kaveritkin olivat vakuuttuneita, että sen olisi pitänyt voittaa pystyyn.
+
+Koiraa treenataan, jotta sen suoritus saataisiin niin lähelle sen genetiikan määräämiä rajoja kuin mahdollista. Tämä on pidettävä aina mielessä, ja mielellään myös ymmärrettävä. Survival of the fittest pätee jalostuksessakin. Charme Asserdal oli viime vuosisadan loppupuolen yksi kovimmista ravitammoista. Täydellinen huippu. Mutta sen sukutaulu ei ollut mitenkään ihmeellinen, eivätkä sen jälkeläiset menestyneet. Aina välillä tulee keskinkertaisista tai huonoista vanhemmista hyviä jälkeläisiä, mutta siihen se sitten jääkin. Ja moisen saaminen on jo itsessään lottovoitto. Tämä tarkoittaa sitä, että jos ostaa pentunsa keskinkertaisesta nartusta, jonka ainoa käyttökriteeri todellisuudessa oli, että joku kasvattaja omistaa sen ja sillä on kaksi reikää hännän alla, niin on turha odotella liikoja. Olen sanonut ennenkin ja sanon taas. Jos väriä ostaa, niin väriä saa. Jos nopeutta ostaa, niin nopeutta saa. Jos koiran perimä ei "salli" sen olevan kestävä rataennätysvauhtinen, niin on aivan sama paljonko sitä treenataan. Siitä ei saada koskaan derby-voittajaa. Hyvän treenarin tunteekin siitä, että saa koiran potentiaalista kaiken irti. Silloin se pärjää tasollaan. Oma tarinansa taasen on, että hyville treenareille se alempi taso ei riitä ja koira muuttaa muualle. Kunnianhimo onkin yksi treenarien, varsinkin menestyneiden, pahimpia kompastuskiviä. Oma menestyksen jano sokaisee, ja koiralle ladotaan sellaiset odotukset, joita se ei koskaan kykene täyttämään. Mikäli saa hyväsukuisen eläimen, jolle geenit ovat menneet paikallee, ja jos onnistuu vielä näkemään koiran oman kunnianhimon takaa, niin päästäänkin siihen ehkä vaikempaan käytännön pulmaan. Treenin on parannettava koiran aitoja kykyjä. Silloin koiran saa huipulle huippukunnossaan. Jos koiralla ei ole geneettistä kestävyyttä, niin on aivan turha tahkota aerobisia harjoituksia (aika turhaa se muutenkin eläimellä, jolla ei ole suuremmin hitaita lihassoluja). Silloin parannetaan early pacea ja voitetaan startit alun hirvittävällä kaulalla. On siis treenattava vain ja ainoastaan niitä kykyjä, joita koiralla on. Niitä kaikkia.
+
+Samaan kastiin kuuluu myös muu huolto. Vaikka koira olisi kunnossa, niin jos joku ympäristössä ei toimi, niin ei toimi koirakaan. Jos se pelkää naapuriaan, niin sen vieressä ei pidetä. Jos sen pää keittää yli kisaympäristössä, niin sen kanssa ei tehdä puolen tunnin lämmittelyä, sanoi oma treeni-ideologia mitä tahansa. Koira ei kulje pelkällä lihaskunnolla. Huippukuntoon päästäkseen myös korvien välin täytyy olla kunnossa.
+
+Huippukunto on vaikea asia. Sen tunnistaminen on vaikeaa. Siihen pääseminen vasta vaikeaa onkin. Se vaatii hyvän koiran lisäksi treenarilta ilmiömäistä kykyä realismiin, niin tekemisten kuin odotustenkin suhteen.

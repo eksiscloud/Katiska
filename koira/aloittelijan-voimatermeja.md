@@ -1,0 +1,50 @@
+---
+title: "Aloittelijan voimatermejä"
+date: 2010-04-21
+categories: 
+  - "koira"
+---
+
+Kokeneemmat käyttävät mielellään termejä early pase, nopeuskestävyys tai maksiminopeus. Usein tarpeesta, joskus itsetehostuksena. Joku jopa saattaa tietää mistä puhuu, mutta mikään sääntö sekään ei ole - harrastusvuosista riippumatta. Ongelmia saattaa tulla siinä vaiheessa, kun vastapuolet tarkoittavat aivan eri asioita. Ole siinä sitten aloittelija ja yritä oppia.
+
+<!--more-->
+
+Greyhound racingissä treenaus perustuu parin perusasian ymmärtämiseen. Ne ovat koiran
+
+- liikkeiden puhtauden ymmärtäminen ja näkeminen (ei onnuta, kulkee suoraan, askelpituus ei ole liian lyhyt) sekä
+- treenin kytkeminen tarpeeseen (aina kilpaillaan täydessä laukassa, pyritään maksimaaliseen nopeuteen lyhyillä matkoilla).
+
+On aivan sama miten nuo tavoitteet saavutetaan, mutta kun harrastaa, niin suotavaa olisi edes yrittää oppia jotain harrastuksestaan. Lajissa on ihmisiä, jotka ovat kyenneet olemaan oppimatta yhtään mitään - eikä taaskaan harrastusvuosien määrä korreloi mitenkään osaamisen kanssa. Ehkä tästä saa taas yhden tukikiven sille perustalle, johon ymmärrys greyhound racingistä rakennetaan
+
+Eivätkä nämä asiat rajoitu greyhound racingiin tai edes vinttikoiriin ylipäätään. Nämä ovat yleisiä asioita, jotka pätevät kaikkeen sellaiseen harrastamiseen, jossa käytetään nopeutta sekä voimaa. kuten agilityyn. Kestävyysurheilussa, oli se sitten valjakkourheilua tai jäniksenajoa, merkitykset ja niiden painotukset hieman muuttuvat, mutta ei perusidea.
+
+**Voima** on perusyksikkö, jota tarvitaan kun tehdään mitä tahansa työtä. Mitä enemmän voimaa, sitä enemmän kyetään tekemään työtä. Tässäkään ei saa ampua yli, sillä moniko menestynyt voimanostaja pärjää miesten satasella? Sprintillä kyetään löytämään tasapaino niin matalan (lihas)massan ja korkean voiman kuin mahdollista välillä. Sprintterillä paino on merkitsevä tekijä.
+
+Voima voidaan jakaa muutamaan perustyyppiin:
+
+- maksimivoima on lihaksen suurin voima, jonka se kykenee yhdellä supistuskerralla tuottamaan. Käytännössä täysin epäolennainen treenattava greyhoundilla, koska se kasvattaa massaa liiaksi.
+- nopeusvoima on lihasryhmän kyky tuottaa lyhyessä ajassa niin suuri ns. submaksimaalinen voima kuin mahdollista. Tätä haetaan greyhoundeilla. Ihmisillä sitä rakennetaan esim. intervalliharjoituksilla. Nopeusvoiman yhteydessä puhutaan välillä myös räjähtävästä voimasta, jonka nimi kertoo jo paljon. Liittyy olennaisesti greyhound racingiin, koska ne koirat, joilla on erinomainen räjähtävä voima, ovat. ns. early pace -koiria; kiihtyvät lujaa. Harjoitellaan lyhyinä vetoina, monet käyttävät ylämäkeä tai suota. Kun harjoituksen kestoa nostetaan siitä muutamasta laukasta tai sekunnista, niin hyöty menetetään. Avainsanoina ovat toistot, lyhyt kesto ja palautuminen sarjojen välillä.
+- kestovoima on lihasryhmän kyky ylläpitää voimaa mahdollisimman kauan. Tämä tulee (greyhoundien mittakaavassa) vastaan nimenomaan stayereilla. Se jossain määrin treenattavissa oleva ominaisuus, jonla "treeniasteen" määrittelee koiran genetiikka. Stayeriksi synnytään, mutta lisämetrejä on saatavilla.
+
+**Kestävyys** on kykyä tehdä pitkäkestoisesti tehokasta työtä tai liikkua väsymättä, niin että elimistö kykenee palautumaan. Osaltaan jo rasituksen aikanakin. On syytä ymmärtää, että vaikka termiä kestävyys käytetäänkin greyhound racingissä, niin greyhound ei ole kestävä rotu. Eikä yksikään muukaan laji ole kestävä, jos se juoksee maksimaalista vauhtia sprintillä. Ei suurinta mahdollista nopeutta kyetä pitämään kovinkaan pitkään yllä. Mutta ihminen voi treenaamalla kehittää kestävyyttään, greyhound ei. Greyhoundilla ei genetiikastaan johtuen ole niitä tekijöitä, joilla se saataisiin menemään tehokkaasti 10 kilometriä. Sanotaan, että greyhoundilta puuttuu aerobinen peruskestävyys. Peruskestävyydessä ollaan alle maksimisykkeen, greyhoundeilla niin paljon, että senkään mittaamisessa ei ole mitään mieltä. Ihmisillä sanotaan, että treenaamalla kykenee parantamaan kesätvyyttä 40 - 60 %, mutta greyhoundilla ollaan niin lähellä nollaa kuin mahdollista. Siltä puuttuu siihen tarvittavat lihassolut.
+
+**Nopeus** on se ominaisuus, jolle koko greyhound racing rakentuu. Puhdas, absoluuttinen nopeus, joka on teoriassa jaettavissa muutamaan erityyppiseen alalajiin, kuten voimakin.
+
+- perusnopeus on hermo-lihasjärjestelmän perustaa ja mitataan ihmisillä vaikkapa lentävästä lähdöstä juostulla 60 metrillä. Greyhoundilla se on vaikkapa se nopeus, jota koira normaalissa vapaana ulkoilussa esittää, kun se jonkun matkan päässä näkee jotain kiinnostavaa. Ei kerro sinänsä mitään koiran menestymisen mahdollisuuksista ja siksi usein suhtaudutaankin aavistuksen (tai oikein reippaan) huvittuneesti kun joku kehuu koiransa nopeutta pihalla omenapuiden välissä.
+- reaktionopeus on se aika, joka kuluu ärsykkeestä toiminnan aloittamiseen. Greyhoundeilla lähtökopista tulo on reaktionopeudesta riippuva. Reaktionopeutta voidaan jossain määrin treenata, mutta enemmänkin kyseessä on kokemusperäinen, opittu asia. Oppimista voidaan auttaa, mutta varsinaisesti on vaikeaa, ellei mahdotonta, opettaa koiralle nopeaa reagoimista aukeavaan veräjään. Toisilla se on, toisilla ei. Aikoinaan eräs suomalainen treenari luuli osaavansa tuon treenauksen, mutta edeltävät ja seuraavat näytöt puhuivat karua kieltään; treenari omi koiran hallitseman ominaisuuden.
+- räjähtävä nopeus on sama kuin räjähtävä voima, mutta nopeudella mitattuna. Kun veräjän seuraaminen on reaktionopeutta, niin se nopeus, jolla kopista tullaan ulos, on räjähtävää nopeutta. Kyseessä on vaikkapa reaktionopeutta vahvemmin treenattava ominaisuus.
+- liikenopeus on nopeuden kehittämistä ja sen säilyttämistä pysyvässä rytmissä. Tämä on ominta greyhound racingiä. Tarkoittaa, että koira kykenee nostamaan itsensä puhtaalla kiihdytyksellä täytteen laukkaan ja pitämään laukan puhtaana niin kaarteessa kuin väsyessäänkin. Liikenopeus on täysin treenattavissa oleva ominaisuus ja nimenomaan tekniikkakysymys. Koira on opetettava juoksemaan täydellä nopeudella.
+
+**Nopeuskestävyys** on koiran kykyä ylläpitää täyttä tai lähelle täyttä nopeutta ja se on anaerobisempi ominaisuus kuin peruskestävyys. Mitä pidempään, sitä parempi, mutta greyhoundeissa silti puhutaan vain kymmenistä metreistä ennen kuin hidastuminen alkaa. Greyhoundilla nopeuskestävyys näkyykin hitaampana hidastumisena. Kehnolla nopeuskestävyydellä mennään kolmannessa kaarteessa lujaa, mutta vauhti hiipuu kuin seinään maalisuoran auetessa. Nopeuskestävät koirat ovat niitä, joista puhutaan joskus yli 500 metrin koirina, koska ne jaksavat mennä vauhdilla pidempää keskimatkaa. Stayereilla on erinomainen nopeuskestävyys. Kannattaa kuitenkin muistaa, että em. jako toimii ainoastaan lajin ja rodun sisällä. Verrattuna laukkahevoseen greyhoundilla on kehno nopeuskestävyys. Greyhoundilla treenauksen osuus riippuu koiran genetiikasta, sillä geneettisesti 250 metrin koirasta ei saa millään tehtyä nopeuskestävää 500 metrin kilpailijaa, mutta geneettisesti pidemmän keskimatkan koiralla tehty treeni merkitsee ajassa jopa sekunnin luokkaa.
+
+**Maksiminopeus** on koiran huippunopeus. Tyypillisesti greyhound saavuttaa sen takasuoran puolen välin paikkeilla, kuitenkin ennen kolmatta kaarretta. Se kykenisi kiihdyttämään itsensä nopeammin ilman ykkös/kakkoskaarretta, joka sinällään ei estäisi kiihdyttämistä, mutta hidastaa - yleensä profiilin puutteiden ja kehnon radanhoidon takia. Yleisesti luullaan, että greyhoundilla on täysi vauhti lähtösuoran päässä, mutta tämä ei pidä paikkaansa - vaikka sillä matkalla suurin kiihdytys tehdäänkin. Tästä johtuu se, että lahjakas 500 metrin koira juoksee lähes säännönmukaisesti parempia 280 metrin väliaikoja kuin sitä early pacempi sprintteri.
+
+**Tekniikka** on täysin treenattavissa oleva ominaisuus, joka toki vaatii hyvää lihaskuntoa, tervettä kehoa ja aisteja. Vartalon ja juoksun hallinta opitaan vain ja ainoastaan juoksemalla. Mikä koiran koko kasvu- ja treeniaika on tapahtunut 100 metrin peltosuoraa edes takaisin juosten ja parhaimmillaan (pahimmillaan) yksin, niin koiran kyky reagoida nopeissa alle sadasosan tilanteissa,  niin että juoksunhallinta pysyy "kasassa", on satavarmasti vajaa. Ne ovat kanssakilpailijoilleen jopa vaarallisia. Greyhoundin on opittava juoksemaan vaihtelevassa maastossa, erilaisilla nopeuksilla, poikkeavilla käännöksillä ja laumassa. Jatkuva liikuttaminen, jota myös treenaukseksi kutsutaan, vahvistaa lihaksiston lisäksi myös lihasmuistia. Hermo-lihastoimintojen yhteistyön on oltava välitöntä ja saumatonta, muutoin liikkeiden ajoitus kärsii.
+
+**Psyyke** on yksi tärkeimmistä tekijöistä, mutta joka unohdetaan säännönmukaisesti. Kun koira on virkku, valpas, stressaantumaton, ei osoita ylikunnon henkisiä merkkejä ja on ylipäätään innokas työhönsä, niin halu juosta ja voittaa on suurempi. Diskiriski pienenee myös.
+
+**Aerobisessa** suorituksessa lihasten energia tuotetaan hapella ja se on pääsääntöisesti tasapainossa kulutuksen kanssa, jolloin saavutetaan pitkäkestoinen kestävyys ja suorituskyky. **Anaerobisessa** suorituksessa lihakset tuottavat ensin energiaa kemiallisten prosessien avulla ja myöhemmin lihakset tarvitsevat enemmän happea energian tuottamiseen kuin mitä ne saavat. Tapa on erittäin epätaloudellinen ja tuottaa suunnattomasti kuona-aineita, mutta se on ainoa tapa, jolla greyhoundin lyhytkestoinen, räjähtävä voima saadaan tuotettua. Tämän epätaloudellisuuden takia greyhound racingin on niin fyysisesti vaativa laji, ei missään nimessä kaloreina mitattuna energiavaatimusten takia. Sohvaperuna käyttää laiskotteluunsa suunnilleen saman joulemäärän kuin greyhound voittaessaan Derbyn.
+
+Loppuun täysin eräällä tavalla off topic -muistutus. Treenarit muistavat pukea koiransa viileällä kelillä, mutta ei kylmempi ilmanala lihasten energiavarantoja syö. Kuuma ja hikoilu kylläkin. Koiran viilentäminen on huomattavasti tärkeämpää kuin sen pukeminen vain siksi, että treenari ei tarkene kulkea T-paidassa.
+
+Ja muistakaa tappava yhdistelmä: helle + auto

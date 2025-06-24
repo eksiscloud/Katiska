@@ -1,0 +1,42 @@
+---
+title: "Seleeni"
+date: 2010-02-09
+categories: 
+  - "koira"
+---
+
+**Seleeni** (Se) esiintyy orgaanisessa muodossa seleeniä sisältävissä aminohapoissa sekä ravintovalmisteissa epäorgaanisessa muodossa. Seleenin saaminen ravinnosta on erittäin pitkälle riippuvainen maaperän seleenimääristä. Yleensä pohjois-eurooppalainen ruoka on seleeniköyhää, mikäli siihen ei ole lisätty seleeniä. Seleenin imeytyminen on tehokasta, eikä sitä säädellä. Eri ruoka-aineiden seleenin imeytymistehokkuus vaihtelee ja viljoista seleeni imeytyy tehokkaammin kuin eläinkunnan tuotteista.
+
+<!--more-->
+
+Seleenin aineenvaihdunta on tiukasti säädeltyä. Elimistön tarpeen mukaan seleeni joko sitoutuu kuljetusproteiiniin tai erittyy joko virtsaan tai keuhkojen kautta.
+
+Seleenin toimintaa ei täysin ymmärretä, mutta se toimii ainakin antioksidanttina ja ylipäätään elimistön puolustukseen, jolloin seleeni sitoo itseensä myrkyllisiä raskasmetalleja, Seleeniä sisältävät proteiinit osallistuvat myös kilpirauhashormonin aktivointiin tai inaktivointiin.
+
+Lähes kaikilla koirilla Pohjois-Euroopassa on jonkinasteinen seleenin puute, koska ravinto on useimmiten seleeniköyhää. Vakavampi seleenin puute muuttaa seleenientsyymien toimintoja ja heikentää kilpirauhashormonien aineenvaihduntaa. Seleenin ja [jodin](https://www.katiska.eu/tieto/koira-tarve-mineraali/jodi/ "Jodi") yhdistetty puutos aiheuttaa vakavamman kilpirauhasen vajaatoiminnan kuin jodi yksinään. On myös esitetty teorioita, että riittämätön seleeni olisi syynä joihinkin syöpiin, mutta seleenin suojaavasta vaikutuksesta ei ole saatu riittävää näyttöä. Seleenin puute kytketään aika ajoin [kasvukipuihin](https://www.katiska.eu/tieto/koira-pentu-kasvu/panoisteiitti/ "Panoisteiitti"), mutta siitäkään ei ole riittävästi näyttöä. Tiedetään kuitenkin, että alueilla, jossa seleeniä saadaan riittävästi, on huomattavasti vähemmän kasvukipuja kuin seleeniköyhillä alueilla.
+
+Seleeni on myrkyllinen, ja ero turvallisen saannin ja myrkyllisen annoksen välillä on pienempi kun muilla kivennäisaineilla. Koirien myrkyllisestä annoksesta ei ole tietoa, mutta ihmisillä noin 5 mg päivittäinen annos aiheuttaa myrkytyksen, _selenoosin_, jonka oireita ovat tukan lähtö, kynsivauriot, iho-oireet, hampaiden irtoaminen ja hermostolliset muutokset. Tämä saattaisi olla yksi selitys koirien mystillisille hammasheikkouksille, jatkuvalle karvanlähdölle ja heikoille kynsille - tietysti edellytyksellä, että koira olisi jostain saanut liikaa seleeniä. Ihmisillä akuutin myrkytystilan aiheuttaa noin 40 mg päivittäinen annos. Suurin turvallinen annostus aikuiselle ihmiselle on 300-350 µg/vrk. Merkki seleenin liikasaannista on valkosipulin hajuinen hengitys.
+
+## Bioaktiivisuus
+
+Seleenin [bioaktiivisuus](https://www.katiska.eu/tieto/koira-tarve-yleinen/biosaatavuus/ "Biosaatavuus") vaihtelee sen mukaan mistä sitä saadaan ja mitä muuta saadaan. Yleisesti seleenillä on matala bioaktiivisuus.
+
+Äidinmaidon seleeni imeytyy hyvin, mutta omassa lajissaan. Siksi tieto siitä, että ihmisillä äidinmaidon seleenistä imeytyy 11,1 %, lehmän maidosta 6,8 %, vuodella 6,2 % ja lampaan maidosta alle 2 % (Shen ym. 1996\[ref\]Lihua Shen, Peter Van Dael, Loop Luten, Hendrik Deelstra. Estimation of selenium bioavailability from human, cow's, goat and sheep milk by an in vitro method. _Int. Journal of Food Sciences and Nutrition_. 1996, Vol. 47, No. 1 , Pages 75-81\[/ref\]), on määriltään epäolennaista. Olennaista on se, että maidosta seleeni on imeytyvää noin 10 prosentin verran, mutta imeytyminen vähintään puolittuu, jos maitoa käyttää muu kuin eläinlajin imeväinen. Syyksi esitettiin aminohappoja, mutta kun [maidon](https://www.katiska.eu/tieto/koira-raakaruokinta-raaka-aineet/maito/ "Maito") rasvaosa poistettiin, niin imeytyminen parani.
+
+## Seleeniä nivelille
+
+Tiedetään, että seleeni on vahva [antioksidantti](https://www.katiska.eu/tieto/koira-tarve-vitamiini/antioksidantit/), jolla on melkoinen merkitys [sperman laadulle](https://www.katiska.eu/tieto/uros/sperma-kuntoon-lisilla/) tai kilpirauhasen toiminnalle. Tiedetään myös, että Suomessa seleenin saanti on vähäistä. Noista kahdesta tiedosta on vedetty myös arvuuttelua, että kuinka suuri merkitys seleenin vajaasaannilla on niin ihmisiä kuin koiriakin kiusaavalle kilpirauhasen vajaatoiminnalle. Seleenin on epäilty suuremmissa annoksissa myös laskevan riskiä esim. virtsarakon, eturauhasen ja kilpirauhasen syöpiin, ainakin ihmisillä. Seleeni osallistuu 50 - 100 proteiinin toimintaan,joten sen vaikutusten voi olettaa olevan vieläkin laajempi. Tilanne on siis samantyyppinen kuin [sinkillä](https://www.katiska.eu/tieto/sinkki/sinkki/ "Sinkki"), jolla on myös laajat terveysvaikutukset nimenomaan siksi, että se osallistuu niin monen proteiinin toimintaan, ja erilaiset proteiinit ohjaavat kaikkia kehon toimintoja.
+
+Antioksidanttina seleeni kykenee sitomaan itseensä myös määrättyjä ympäristömyrkkyjä, ja tätä on usein käytetty markkinointiväitteenä seleenin puhdistavasta ja terveellisestä vaikutuksesta. Osaksi tämä pitääkin paikkaansa, osaksi se on liioittelua. Mutta seleeni on kuitenkin aktiivisen tutkimuksen kohteena ja uutta tietoa saadaan koko ajan lisää.
+
+Seleeniä tutkitaan koko ajan enemmän. Pääsuunta on varmasti seleenin mahdollisesti syöpiä estävä vaikutus. Näyttö seleenin tehosta syövissä on sen verran vahva jo nyt, että amerikkalainen ruokien ja lisien turvallisuutta valvova viranomainen FDA (_Food and Drug Administration_) on myöntänyt seleenille luvalliseksi terveysväitteeksi yleisen syöpäriskin vähentämisen. Nivelongelmat ovat kasvava vaiva ihmistenkin parissa ja siksi kaikkia mahdollisia hoitotapoja tutkitaan. Tähän asti ainoa tutkitusti toimiva tapa hoitaa polvia ravintolisällä on ollut [glukosamiini](https://www.katiska.eu/tieto/koira-nivelet/glukosamiini/ "Glukosamiini"). Korvaavia ja täydentäviä tapoja etsitään kuitenkin koko ajan.
+
+British Journal of Nutriotin kertoi Selemax-nimisen tuotteen tutkimuksista. Se on seleenillä rikastettu hiivapohjainen tuote. Seleenin toimivuutta tutkittiin hiirillä ja rotilla reumaattisen artritiksen hoidossa (Vieira ym. 2012\[ref\]Angélica T. Vieiraa, Kátia D. Silveira, Maria C. C. Arruda, Caio T. Fagundes, Juliana L. Gonçalves, Tarcília A. Silva, Maria J. Neves, Maria A. B. C. Menezes, Jacques R. Nicoli, Mauro M. Teixeira, Flaviano S. Martins: Treatment with Selemax®, a selenium-enriched yeast, ameliorates experimental arthritis in rats and mice. _Br J Nutr_. 2012 Jan 25:1-10. doi: [10.1017/S0007114512000013](http://www.ncbi.nlm.nih.gov/pubmed/22273003)\[/ref\]). Tulosten mukaan seleeni vähensi huomattavasti tulehdussolujen määrää polvessa. On täysin auki auttaako seleeni vähentämään tulehdusta myös lonkan ongelmissa, mutta tällä hetkellä näyttää siltä, että kokeilla ainakin kannattaa.
+
+\[pullquote\]PPM = Parts per million, on suhteellinen pitoisuusmitta, joka ilmaisee, kuinka monta miljoonasosaa jokin on jostakin. 1 000 ppm = 1 ‰ ja 10 000 ppm = 1 %. Esim. 1 ppm on milligramma kilossa tai litrassa\[/pullquote\]
+
+Tutkimuksessa hiirille annettiin Selemaxia 0,1 %, 1 % ja 10 % ruuasta. Valitettavasti tutkimusyhteenveto ei kerro paljonko Selemaxissa on seleeniä, mutta googletuksen myötä löysin yhden dokumentin, jonka mukaan Selemaxissa olisi orgaanista seleeniä 2000 ppm - en kuitenkaan tiedä onko kyseessä sama tuote.
+
+Muualla maailmassa seleeniä on enemmän maaperässä, joten kasvismaailmasta ja sitä myöten myös lihasta saadaan enemmän seleeniä kuin täällä. Suomessa eläinten rehuihin lisätään seleeniä, joten ravinnosta saatavan seleenin määrää nostetaan sitä kautta eräällä tavalla keinotekoisesti. Luomutuotannossa seleeniä ei lisätä, niin luomulihassa on huomattavan alhaiset seleenimäärät. Suurempi merkitys on kuitenkin tuontilihassa, jonka rehu ei välttämättä ole riittävää seleenin suhteen, vaikka sitä lähtömaan maaperässä kuitenkin riittävästi olisi. Vaikka käyttäisikin kotimaisia tuotteita, jolloin lannoituksessa on seleeniä käytetty, niin silti kotimainen seleenin saanti jää alhaiseksi.
+
+Seleenin antamisessa on muistettava kaksi asiaa. Ensimmäinen on, että [rikki](https://www.katiska.eu/tieto/aminohapot/metioniini/) estää seleenin hyödyntämistä, joten esim. [MSM](https://www.katiska.eu/tieto/koira-nivelet/msm/):n käyttöä samaan aikaan seleenin kanssa kannattaa harkita. Toinen on, että [E-vitamiini](https://www.katiska.eu/tieto/e-vitamiini/koira-e-vitamiini/ "E-vitamiini") toimii yhdessä seleenin kanssa, joten E-vitamiinia on syytä antaa aina yhdessä seleenin kanssa.

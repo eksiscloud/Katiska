@@ -1,0 +1,47 @@
+---
+title: "Laihuutta lihapatojen ääressä"
+date: 2010-04-14
+categories: 
+  - "koira"
+tags: 
+  - "barf"
+  - "kuivamuona"
+  - "laihtuminen"
+  - "raakaruokinta"
+---
+
+[![ID-10055409](images/ID-10055409-300x225.jpg)](http://www.freedigitalphotos.net/images/Other_Health_and_Bea_g278-Fork_With_Yellow_Measuring_Tape_p55409.html)Kun koira vaihdetaan kuivamuonalta lihapohjaiseen ruokintaan, niin se usein laihtuu. Turhan monet barffaavat koirat ovat laihoja. Eivät hoikkia, vaan laihoja. Omistaja ei sitä läheskään aina näe, koska hän katsoo liian läheltä. Muutos ei tapahdu päivässä, mutta kahden viikon aikanakin tapahtunut painon lasku jää huomaamatta.
+
+<!--more-->
+
+Jos hyvin käy, niin jossain vaiheessa omistaja havahtuu muutokseen. Hän saattaa jopa korjata tilanteen. Edellyttäen tietysti, että ylipäätään tunnistaa laihuuden. Kaikki eivät tunnista. Se, että laihtumista ei huomata, johtuu yhdestä syystä. Koiraa katsotaan, mutta sitä ei nähdä. Helppo synti. Olen itsekin siihen syyllistynyt. Ja tulen syyllistymään tulevaisuudessakin, olkoonkin, että virheistään tulisi oppia. Olen myös päästänyt koiria liian laihoiksi. Ilman varsinaista tarkoitusta, ainoastaan muuttamalla ruokintaa. Pelkkää ajattelemattomuutta, koska en ollut miettinyt mitä kuppiin laitetaan. Kehno puolustus, koska minun pitäisi tietää paremmin.  
+  
+Kun koira laihtuu, niin se johtuu aina ja poikkeuksetta yhdestä syystä. Eläin saa liian vähän energiaa. Tämä on perussyy, joka voi toki johtua useammastakin tekijästä, mutta se on perusta. Kun laihdutaan, niin saadaan liian vähän energiaa. Kun lihotaan, niin saadaan liikaa energiaa. Ensiapuna lisätään energiaa, niitä kilokaloreita ja jouleja. Useimmiten ruuan määrää lisäämällä, mutta toki ruuan energiatiheyden kasvattaminenkin toimii. Vaikka rasvalla tai kananmunilla. Ruokaa on kuitenkin saatava lisää.
+
+Kun vaihdetaan kuivamuonaa toiseen, niin läheskään aina ei itseasiassa vaihdeta muuta kuin säkin väriä. Prosenttiyksikön verran saattaa olla eroa, mutta useimmiten niin vähän, että sillä ei ole mitään merkitystä. Jos rasva on ennen ollut 17 ja se nostetaan 19:sta, niin ei sillä aidosti ole suurtakaan merkitystä. Valkuaisen määrällä ei ole yhtään mitään merkitystä, koska laskennallinen kokonaisenergia ei muutu mihinkään - hiilihydraatit muuttuvat valkuaisen mukana ja niistä saadaan sama energia. Kun mainostetaan 40 % raakavalkuaista, niin koiran saaman energian suhteen kyseessä on aivan sama kuin jossain 24 % ruuassa, koska molemmissa on 17 % rasvaa. Laihtuminen johtuukin usein ruuansulatuksen sopeutumisen hitaudesta, kun prosessointi ja raaka-aineet muuttuvat. Jos muuttuvat. Useimmiten ruuat ovat vain toistensa klooneja - samaa kanariisiä kaikki tyynni.
+
+Suurin riski koiran painolle onkin mainostekstejä tavaava omistaja, joka luulee saantisuositusten pohjaavan jollain tavalla reaalimaailmaan. Koira ruuan määrän sanelee - ei laskennallinen keskiarvotaulukko, joka perustuu myyjän markkinointitarpeisiin.
+
+Kun koira laihtuu siirryttäessä kuivamuonista lihapohjaiseen ruokintaan, niin monet omistajat ovat ihmeissään. Niin ihmeissään, että sulkevat silmänsä todellisuudelta. Lihan pitäisi olla parasta koiralle, mutta koira ei parane. Se menee einen huonommaksi. Joskus sokeus eräällä tavalla kannattaa, koska muutaman kuukauden kuluttua rekku saattaa olla taas pulleahko oma itsensä - ja omistaja on säästynyt pohtimasta ikäviä ajatustyötä vaativia asioita. Kuten ottamasta vastuuta tekemistään päätöksistä, joista lopullisen vastuun kantaa koira.
+
+Kun koiran energian tuotanto on suurelta osin perustunut hiilihydraatteihin, niin elimistö unohtaa miten rasvaa poltetaan. Suurin osa saadusta rasvasta on mennyt muihin tarpeisiin, siitä ei ole riittänyt polttoaineeksi. Sen sijaan hiilihydraatteja on ollut yllin kyllin. Kun hiilihydraatit jätetään pois tai niitä radikaalisti vähennetään, niin rasvan hyödyntäminen täytyy opetella uudestaan. Tähän menee jopa kuutisen viikkoa ja siihen asti osa rasvasta jää käyttämättä koiran ollessa eräällä tavalla miinuskaloreilla. Tämä alkaa olla jo vanhaa tietoa, mutta jätetään kuitenkin usein huomioimatta. Siksi nopeita johtopäätöksiä ruokinnan toimivuudesta määrällä mitaten ei saisi tehdä, jos muutos riittävän perusteellinen. On annettava aikaa sopeutua, ja sitä odotellessa annetaan enemmän ruokaa.
+
+Suurin syy kuitenkin on, että kun osa kuivamuonasta korvataan lihalla, niin itseasiassa huomaamatta vähennetään ruokaa. Ainakin kaloreita. Kun koiralta vähennetään 100 g kuivamuonaa, jossa on valkuaista 28 %, rasvaa 17 % ja 30 % hiilihydraatteja, niin pois lähtee 10 grammaa vettä, 28 grammaa proteiineja, 17 grammaa rasvaa ja 30 grammaa hiilihydraatteja. Laskennallisesti ruokakupista poistuu muuntokelpoista energiaa 1452 kJ eli 1,452 MJ - kaloreissa noin 347 kcal. Tilalle laitetaan sikanautaa, joka ei ole ihan ruokakaupan tiskille kelpaavaa - vaan joukossa on myös reippaammin rustoa ja erilaista sidekudosta. Tarkkaa analyysia on mahdoton kaivaa mistään, mutta pahasti ei mennä pieleen, kun ilmoitetaan 100 grammalle jauhelihaa vettä 65 %, 12 % valkuaista ja 16 % rasvaa - eli 12 grammaa valkuaista ja 16 grammaa rasvaa antaisi muuntokelpoista energiaa 748 kJ eli 0,748 MJ eli 179 kcal.
+
+Kun kuivamuona korvattiin suunnilleen samalla määrällä lihaa, niin energian määrä käytännössä puolitettiin. Tämä johtuu siitä, että kuivamuona on kuivaa ja liha on märkää. Määrät olisivat vertailukelpoisia, jos kuivamuona turvotettaisiin yhtä suureen määrään nestettä. Suurin osa ei kuitenkaan näin tee. Ja kun kippo ruokinnan muutoksen jälkeen on yhtä täynnä - tai jopa hivenen kevyempänä, koska lihahan on parempaa ja parempaa annetaan vähemmän - niin koiran saaman energian määrä romahtaa. Silloin laihdutaan.
+
+Lihaa täytyy käyttää aina suurempia määriä kuin kuivamuonaa. Liha on kilohinnaltaan halvempaa kuin kuivamuona. Se on jo syy olla säästelemättä lihassa, vaan vähentää kuivamuonan osuutta.
+
+Minulta on usein kysytty, että eikö tuo tarkoita sitä, että kuivamuona on lihaa parempaa. Jep, sitä se tarkoittaa - jos kriteerinä pidetään prosentteja verrattuna kuiva vastaan märkä. Kun 100 grammasta märkää lihaa otetaan 65 % vettä pois (mitä "puhtaampaa" lihaa, sitä enemmän vettä), niin jäljelle jää 35 grammaa kuiva-ainetta, josta edelleenkin on se 12 grammaa valkuaista ja 16 grammaa rasvaa - prosentit ovatkin 34/46 lihan eduksi. Lihassa on sekin ero, että se on lihaan ja siihen liittyvää ainesta. Se ei ole perunaa tai viljoja.  Kuivamuonan lihan laadusta saa jotain viitteitä, kun muistaa, että mukaan lasketaan viljojen sisältämät valkuaiset ja rasvat, ja että kuivamuonissa on aina lisättyä valkuaista (soija, muna jne.) sekä lisättyä rasvaa. Kun laitamme tuohon sadan gramman jauhelihaan joukkoon reippaan ruokalusikallisen lohiöljyä ja kananmunan, niin melkoinen kuivamuona saa olla, että "hyvyydessä" pystyy lähtemään viivalle.
+
+Samasta syystä barf-koirat ovat usein laihoja. Ensinnäkin niiden saamaa ruokamäärää kontrolloidaan turhan usein taskulaskimella. Koska joku on joskus keksinyt, että hyvä määrä koiralle on 2-3 % sen painosta, niin sen verran koira sitten saa - ottamatta ollenkaan huomioon mitä annetaan. Suurin ongelma on kuitenkin ravinnon energiatiheydessä. Luussa ja rustossa ei ole käytännössä energiaa, koska liian harva syöttää ydinluita, ja niidenkin tarjoama - sinänsä suunnattoman arvokas - rasva saadaan koiralle liian hitaasti liian pitkän ajan kuluessa, sekä grammoina liian pieninä määrinä. Koska joku on joskus keksinyt, että lihaisten luiden osuus pitäisi olla 50-70 % niin luuta sitten on puolet ruokavaliosta. Alun perinhän lihaisissa luissa piti olla 50/50 lihaa ja luuta, ja kun tuon osuus olisi 50 % niin periaatteessa luun (ja ruston) määrä jäisi 25 prosenttiin. Kääntäen: parhaimmassakin tapauksessa neljännes syödystä ravinnosta on vatsalaukkua täyttävää, mutta ilman energiaa. Jos joku tarjoaisi vastaavan kuivamuonana, niin sellainen valmistaja ristiinnaulittaisiin alta aika yksikön. Barffaajien tuodessa risukimput, bensan ja tulitikut.
+
+Koska syötetään niin suuria määriä luuta, niin joukkoon tarvitaan sulamatonta kuitua. Valitettavan usein se on kurkkua ja kesäkurpitsaa - arvo millä tahansa mittarilla nolla. Energian suhteen jopa negatiivinen, koska nesteen poisto kuluttaa energiaa (pakkasen puolelle mennään luidenkin kanssa, ei sen puoleen). Mutta kaloreille ei ole mitään merkitystä miten omistaja kasvissoseensa tekee. Niistä ei saada energiaa, ja vaikka hieman sokerisempiakin hedelmiä tai marjoja käytettäisiin, niin kokonaiskuvan kannalta niillä ei ole mitään merkitystä.
+
+Loppu on sitten se, millä barf-koira pidetään kuosissa.
+
+Kysyykö joku vielä miksi niin moni broilerin siipi -barffilla elävä koira on niin laiha? Jos kuivamuonailija siirtyessään piirun verran sekaruokkijaksi onnistuu sulkemaan silmänsä virheiltään, niin äärilaidan barffaaja leikkii niitä kolmea kuuluisa apinaa ja sulkee silmien lisäksi myös suunsa ja korvansa.
+
+Oli ruokinnan ideologiana mikä tahansa, niin käyttäytyminen kolmivuotiaan tavoin - en-kuule-en-kuule-pälä-pälä-sormet-korvissa - ei poista ongelmia. Ei myöskään se, että käyttäytyy kuin koira - kuulin käskyn, mutta kun ravistaa kerran niin se on pois-pois-pois - muuta reaalimaailman vaatimuksia. Jos koira ei noudata ideologiaa, niin ideologia muutetaan. Tai sitten ostetaan posliinikoira. Mutta terveen koiran laihuus ei ole kunniaksi kellekään, vähiten omistajalle. Sillä laihuus on lihavuuden jälkeen toiseksi suurin ruokintavirhe minkä voi tehdä.
+
+_Kuva: Grant Cochrane / FreeDigitalPhotos.net_
