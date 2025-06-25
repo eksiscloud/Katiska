@@ -1,6 +1,5 @@
 title: Koiran ruokinta – kokemusten harhat
 publication_date: 2023-09-17
-duration: 34 min
 language: fi
 author: Jakke Lehtonen
 license: cc-by-nc-sa-4.0
