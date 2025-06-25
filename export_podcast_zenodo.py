@@ -1,95 +1,106 @@
-import os
-import requests
+#!/usr/bin/env python3
+from pathlib import Path
 import yaml
 import json
-from datetime import datetime
-from pathlib import Path
+import requests
+import tempfile
+import shutil
+from datetime import date
 
 API_URL = "https://zenodo.org/api/deposit/depositions"
-ACCESS_TOKEN = os.getenv("ZENODO_TOKEN")
 
-if not ACCESS_TOKEN:
-    token_file = Path.home() / ".zenodo_token"
-    if token_file.exists():
-        ACCESS_TOKEN = token_file.read_text().strip()
+# Lue token kotihakemistosta
+with open(Path.home() / ".zenodo_token") as f:
+    TOKEN = f.read().strip()
 
 HEADERS = {
     "Content-Type": "application/json",
-    "Authorization": f"Bearer {ACCESS_TOKEN}"
+    "Authorization": f"Bearer {TOKEN}",
 }
 
 YAML_DIR = Path.home() / "katiska-heritage/podcastit/yaml/kaffepaussin_aika"
 PROCESSED_DIR = Path.home() / "katiska-heritage/podcastit/zenodo_meta"
-TMP_AUDIO_DIR = Path("/tmp/katiska_audio")
-TMP_AUDIO_DIR.mkdir(parents=True, exist_ok=True)
 
-def upload_to_zenodo(yaml_file):
-    with open(yaml_file, "r") as f:
+def upload_to_zenodo(file_path):
+    print(f"\n📄 Käsitellään: {file_path.name}")
+
+    with open(file_path, "r", encoding="utf-8") as f:
         metadata = yaml.safe_load(f)
 
-    # Luo tyhjä talletus
+    audio_url = metadata.get("audio_url")
+    if not audio_url:
+        print("⚠️ audio_url puuttuu, ohitetaan...")
+        return
+
+    print(f"🎧 Ladataan audio {audio_url}...")
+    tmp_dir = tempfile.mkdtemp()
+    local_audio = Path(tmp_dir) / Path(audio_url).name
+    try:
+        r = requests.get(audio_url, stream=True)
+        with open(local_audio, "wb") as f:
+            shutil.copyfileobj(r.raw, f)
+    except Exception as e:
+        print(f"⚠️ Audion lataus epäonnistui: {e}")
+        return
+
+    print("📄 Luodaan uusi julkaisu...")
     r = requests.post(API_URL, headers=HEADERS, json={})
+    if r.status_code != 201:
+        print(f"⚠️ Julkaisun luonti epäonnistui: {r.status_code} {r.text}")
+        return
+
     deposition = r.json()
     deposition_id = deposition["id"]
 
-    # Lataa MP3 Hetzneriltä
-    mp3_url = metadata["audio_url"]
-    mp3_filename = mp3_url.split("/")[-1]
-    local_audio_path = TMP_AUDIO_DIR / mp3_filename
+    print("📤 Ladataan audio Zenodoon...")
+    files_url = f"{API_URL}/{deposition_id}/files"
+    with open(local_audio, "rb") as fp:
+        r = requests.post(files_url, headers={"Authorization": f"Bearer {TOKEN}"}, files={"file": fp})
+    if r.status_code != 201:
+        print(f"⚠️ Audion siirto epäonnistui: {r.status_code} {r.text}")
+        return
 
-    audio_response = requests.get(mp3_url)
-    with open(local_audio_path, "wb") as f:
-        f.write(audio_response.content)
-
-    # Liitä MP3 tiedosto talletukseen
-    with open(local_audio_path, "rb") as fp:
-        requests.post(
-            f"{API_URL}/{deposition_id}/files",
-            headers={"Authorization": f"Bearer {ACCESS_TOKEN}"},
-            files={"file": (mp3_filename, fp)}
-        )
-
-    # Metadata-payload
-    metadata_payload = {
+    print("📝 Päivitetään metadata...")
+    payload = {
         "metadata": {
-            "upload_type": "audio",
-            "publication_date": str(metadata["publication_date"]),
-            "title": metadata["title"],
-            "creators": [{"name": metadata["author"]}],
-            "description": metadata["description"],
-            "language": metadata.get("language", "und"),
-            "license": metadata["license"],
+            "title": metadata.get("title"),
+            "upload_type": "video",
+            "publication_date": metadata["publication_date"].isoformat() if isinstance(metadata["publication_date"], date) else metadata["publication_date"],
+            "description": metadata.get("description"),
+            "creators": [{"name": metadata.get("author", "Jakke Lehtonen")}],
+            "language": metadata.get("language", "fi"),
+            "license": metadata.get("license", "cc-by-nc-sa-4.0"),
             "keywords": metadata.get("keywords", []),
-            "related_identifiers": [
-                {
-                    "identifier": metadata["source_url"],
-                    "relation": "isDescribedBy"
-                }
-            ]
+            "resource_type": "video",
+            "communities": [{"identifier": "katiska"}],
         }
     }
 
-    r = requests.put(f"{API_URL}/{deposition_id}", headers=HEADERS, json=metadata_payload)
+    r = requests.put(f"{API_URL}/{deposition_id}", headers=HEADERS, json=payload)
     if r.status_code != 200:
-        print(f"⚠️ Metadata-lähetys epäonnistui tiedostolle {yaml_file.name}")
-        print(f"↳ Zenodon vastaus: {r.status_code} {r.reason}")
-        print(json.dumps(r.json(), indent=2))
+        print(f"⚠️ Metadata-lähetys epäonnistui tiedostolle {file_path.name}")
+        print(f"↳ Zenodon vastaus: {r.status_code} {r.text}")
         return
 
-    doi = r.json()["metadata"]["prereserve_doi"]["doi"]
-    print(f"✅ Talletus onnistui: {metadata['title']}")
-    print(f"🔗 DOI: https://doi.org/{doi}")
+    print("🚀 Julkaistaan...")
+    r = requests.post(f"{API_URL}/{deposition_id}/actions/publish", headers=HEADERS)
+    if r.status_code != 202:
+        print(f"⚠️ Julkaisu epäonnistui tiedostolle {file_path.name}")
+        print(f"↳ Zenodon vastaus: {r.status_code} {r.text}")
+        return
 
-    # Päivitä YAML tiedosto DOI:lla
-    metadata["zenodo_doi"] = doi
-    with open(yaml_file, "w") as f:
-        yaml.safe_dump(metadata, f, sort_keys=False, allow_unicode=True)
+    final_doi = r.json().get("doi")
+    if final_doi:
+        metadata["zenodo_doi"] = final_doi
+        with open(file_path, "w", encoding="utf-8") as f:
+            yaml.dump(metadata, f, allow_unicode=True)
+        print(f"✅ DOI lisätty YAML-tiedostoon: {final_doi}")
 
-    # Siirrä käsitelty tiedosto arkistohakemistoon
-    destination = PROCESSED_DIR / yaml_file.name
-    yaml_file.rename(destination)
+    PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
+    shutil.move(str(file_path), str(PROCESSED_DIR / file_path.name))
+    print(f"📦 Siirretty kansioon: {PROCESSED_DIR}")
 
-if __name__ == "__main__":
-    yaml_files = sorted(YAML_DIR.glob("*.md"))
-    for file in yaml_files:
-        upload_to_zenodo(file)
+    shutil.rmtree(tmp_dir)
+
+for file in YAML_DIR.glob("*.md"):
+    upload_to_zenodo(file)
