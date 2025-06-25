@@ -1,4 +1,3 @@
-filename: podcast_161.mp3
 title: Kasvattaja ja pikkupentujen elämä
 publication_date: 2025-04-04
 duration: 45 min

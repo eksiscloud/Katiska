@@ -1,4 +1,3 @@
-filename: podcast_160.mp3
 title: Koiran allergioiden elintaso-ongelma
 publication_date: 2025-03-30
 duration: 36 min

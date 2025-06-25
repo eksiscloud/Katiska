@@ -1,4 +1,3 @@
-filename: podcast_159.mp3
 title: Koiran ruokinta – kokemusten harhat
 publication_date: 2025-03-11
 duration: 10 min
