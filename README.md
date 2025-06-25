@@ -29,3 +29,6 @@ Tämän arkiston tarkoitus on säilyttää ja siirtää eteenpäin koiriin liitt
 ## Yhteydenotot
 
 Jos haluat hyödyntää sisältöä laajemmin, kaupallisesti tai muokattuna, ole hyvä ja ota yhteyttä: **jakke.lehtonen@gmail.com**
+
+
+[![DOI](https://zenodo.org/badge/1007559047.svg)](https://doi.org/10.5281/zenodo.15741646)
