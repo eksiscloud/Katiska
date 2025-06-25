@@ -3,7 +3,7 @@ publication_date: 2025-03-11
 duration: 10 min
 language: fi
 author: Jakke Lehtonen
-license: CC BY-NC-SA 4.0
+license: cc-by-nc-sa-4.0
 description: >
   Podcast-jaksossa aiheena on koirien ns. luonnollisen ruokinnan suhtautuminen lihaan ja sen nostaminen superfood-asemaan ja kaiken parantavaksi ratkaisuksi.
   Se, että lihapohjainen ruokinta korjaa monia kuivamuonien aiheuttamia ongelmia, johtuu kuivamuonien reseptiikkaongelmista. Niissä on liian vähän lihaa. Koiralle karnivorena liha on silti "vain" tavallista perusruokaa.

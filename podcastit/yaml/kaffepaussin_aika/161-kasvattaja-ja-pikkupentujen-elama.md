@@ -3,7 +3,7 @@ publication_date: 2025-04-04
 duration: 45 min
 language: fi
 author: Jakke Lehtonen
-license: CC BY-NC-SA 4.0
+license: cc-by-nc-sa-4.0
 description: >
   Podcastin aiheena on koirankasvattajien tapa keskittyä pikkupentujen ravitsemukseen. Aidosti keskitytään emän tarpeisiin.
   Samalla käsitellään unohdettua filosofista puolta. Kun kasvattaja ottaa oikeukseen sallia uuden elämän, niin hänelle tulee myös vastuu kuolemasta.

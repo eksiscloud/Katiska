@@ -1,10 +1,9 @@
-filename: podcast_XXX.mp3
 title: Koiran ruokinta – kokemusten harhat
 publication_date: 2023-09-17
 duration: 34 min
 language: fi
 author: Jakke Lehtonen
-license: CC BY-NC-SA 4.0
+license: cc-by-nc-sa-4.0
 description: >
   Tässä jaksossa keskustellaan kokemustiedon harhaanjohtavuudesta koiran ruokinnassa. 
   Miksi monet uskovat "kokemuksiin", vaikka niillä ei olisi tieteellistä pohjaa.

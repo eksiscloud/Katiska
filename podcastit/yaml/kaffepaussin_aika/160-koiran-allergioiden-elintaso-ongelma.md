@@ -3,7 +3,7 @@ publication_date: 2025-03-30
 duration: 36 min
 language: fi
 author: Jakke Lehtonen
-license: CC BY-NC-SA 4.0
+license: cc-by-nc-sa-4.0
 description: >
   Podcastissä aiheena on kysymys koirien ruoka-aineallergioiden räjähdysmäinen kasvu. Pitääkö se paikkaana? Onko kyseessä eläinlääketieteen diagnostinen ja hoidollinen ongelma?
   On mahdollista, että allergioiden sijaan syy on syvempi, ja sekalaiset ihon ja ruuansulatuskanavan oireet ovatkin elintaso-ongelmia. Koirat elävät liian laiskasti liian lämpimässä, ja samaan aikaan rehujen laatu on heikentynyt huolestuttavasti.
