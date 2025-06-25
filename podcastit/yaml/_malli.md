@@ -1,5 +1,5 @@
 title: Koiran ruokinta – kokemusten harhat
-publication_date: 2023-09-17
+publication_date: 2025-09-17
 language: fi
 author: Jakke Lehtonen
 license: cc-by-nc-sa-4.0
@@ -12,6 +12,6 @@ keywords:
   - podcast
   - kokemustieto
   - lemmikkieläimet
-audio_url: https://cdn.katiska.eu/audio/koiran-ruokinta-kokemusten-harhat.mp3
+audio_url: https://podcast.katiska.eu/kaffepaussi/podcast_158.mp3
 source_url: https://www.katiska.eu/podcastit/koiran-ruokinta-hyodyttomat-kokemukset
 zenodo_doi:
