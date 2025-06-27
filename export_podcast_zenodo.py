@@ -10,8 +10,29 @@ from datetime import date
 API_URL = "https://zenodo.org/api/deposit/depositions"
 
 # Lue token kotihakemistosta
-with open(Path.home() / ".zenodo_token") as f:
-    TOKEN = f.read().strip()
+
+from pathlib import Path
+import os
+import sys
+
+# 🔐 Haetaan Zenodon API-token
+# export ZENODO_TOKEN=your_token_here
+TOKEN = os.environ.get("ZENODO_TOKEN")
+if TOKEN:
+    print("🔐 Token haettu ympäristömuuttujasta ZENODO_TOKEN")
+else:
+    token_path = Path.home() / ".zenodo_token"
+    if token_path.exists():
+        with open(token_path) as f:
+            TOKEN = f.read().strip()
+        print(f"🔐 Token haettu tiedostosta {token_path}")
+    else:
+        print("❌ Zenodon API-tokenia ei löytynyt ympäristömuuttujasta eikä tiedostosta ~/.zenodo_token")
+        sys.exit(1)
+
+
+#with open(Path.home() / ".zenodo_token") as f:
+#    TOKEN = f.read().strip()
 
 HEADERS = {
     "Content-Type": "application/json",
